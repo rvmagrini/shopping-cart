@@ -10,3 +10,7 @@
 
 - [2.1] Add store item cards
 - [2.2] Create Add/Remove item buttons
+
+### 3: SHOPPING CART CONTEXT
+
+- [3.1] Implement ShoppingCart Context/Provider and item buttons
