@@ -6,6 +6,7 @@
 - [1.2] Add BrowserRouter and Page-Routes
 - [1.3] Create NavBar
 
-### 2: STORE
+### 2: STORE PAGE
 
 - [2.1] Add store item cards
+- [2.2] Create Add/Remove item buttons
