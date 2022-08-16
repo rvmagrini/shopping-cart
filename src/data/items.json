@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Play Station 5",
+    "price": 699.99,
+    "imgUrl": "/imgs/ps5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro",
+    "price": 1199,
+    "imgUrl": "/imgs/macbook.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung 60 Inch",
+    "price": 599.99,
+    "imgUrl": "/imgs/tv60.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Effeuno Oven",
+    "price": 699,
+    "imgUrl": "/imgs/oven.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pixel 5",
+    "price": 530,
+    "imgUrl": "/imgs/pixel.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Harman Kardon",
+    "price": 359,
+    "imgUrl": "/imgs/harman.jpg"
+  }
+]
