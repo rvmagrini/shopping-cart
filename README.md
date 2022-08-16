@@ -14,3 +14,4 @@
 ### 3: SHOPPING CART CONTEXT
 
 - [3.1] Implement ShoppingCart Context/Provider and item buttons
+- [3.2] Implement quantity of ShoppingCart in NavBar icon
