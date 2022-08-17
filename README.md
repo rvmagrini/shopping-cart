@@ -11,8 +11,9 @@
 - [2.1] Add store item cards
 - [2.2] Create Add/Remove item buttons
 
-### 3: SHOPPING CART CONTEXT
+### 3: SHOPPING CART
 
 - [3.1] Implement ShoppingCart Context/Provider and item buttons
 - [3.2] Implement quantity of ShoppingCart in NavBar icon
 - [3.3] Create modal window for ShoppingCart
+- [3.4] Implement Local Storage for ShoppingCart
